@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Artichoke Hummus",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://via.placeholder.com/350x150",
+      "author": "Louis D.",
+      "created_at": "20 minutes ago",
+      "likes": 5
+    },
+    {
+      "id": 2,
+      "name": "Black Bean Dip",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://via.placeholder.com/350x150",
+      "author": "Ryan L.",
+      "created_at": "1 hour ago",
+      "likes": 3
+    },
+    {
+      "id": 3,
+      "name": "Blood Orange and Green Olive Salad",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://via.placeholder.com/350x150",
+      "author": "Peter L.",
+      "created_at": "5 minutes ago",
+      "likes": 4
+    }
+  ]
+}
