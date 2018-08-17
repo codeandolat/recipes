@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 const blue = "#2196F3";
+const strongBlue = "#1565c0";
 
 export const Link = styled.a`
   color: ${props => props.color || blue};
@@ -22,6 +23,7 @@ export const Link = styled.a`
     transition: all 0.3s ease-in-out;
   }
   &:hover {
+    color: ${props => props.color || strongBlue};
     &:before {
       visibility: visible;
       -webkit-transform: scaleX(1);

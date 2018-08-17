@@ -10,4 +10,7 @@ export const GlobalStyles = injectGlobal`
     background-color: #eeeeee;
     font-family: 'Roboto', sans-serif;
   }
+  h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child {
+    margin: 14px 0;
+  }
 `;
